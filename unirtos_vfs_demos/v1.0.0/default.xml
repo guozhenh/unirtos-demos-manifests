@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="https://github.com/unirtos/" />
+  <!-- Demo source repository -->
+  <project name="unirtos_vfs_demos" path="." remote="origin" revision="v1.0.0" />
+</manifest>
