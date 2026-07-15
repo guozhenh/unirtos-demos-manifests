@@ -2,5 +2,5 @@
 <manifest>
   <remote name="origin" fetch="https://github.com/unirtos/" />
   <!-- Demo source repository -->
-  <project name="unirtos_adc_demos" path="." remote="origin" revision="v1.0.0" />
+  <project name="unirtos-adc-demos" path="." remote="origin" revision="v1.0.0" />
 </manifest>
